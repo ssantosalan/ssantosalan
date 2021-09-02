@@ -2,7 +2,7 @@
 - 👾👽
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantosalan&theme=highcontrast&show_icons=true)](https://github.com/ssantosalan/github-readme-stats&theme=highcontrast&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssantosalan&theme=highcontrast&show_icons=true)](https://github.com/ssantosalan/github-readme-stats&theme=highcontrast)
 
 
 
