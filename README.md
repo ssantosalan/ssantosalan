@@ -1,5 +1,4 @@
 ### I am a simple man.
-- 👾👽
 
  <div>
   <a href="https://github.com/ssantosalan">
