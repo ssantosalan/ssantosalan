@@ -6,7 +6,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssantosalan&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssantosalan&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
- java-original.svg
+
 <div style="display: inline_block" align="center"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
