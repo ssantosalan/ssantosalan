@@ -1,5 +1,8 @@
 ### I am a simple man.
 ##
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=150&lines=Hello%2C+World!;">
+</div>
 
  <div align="center">
  <a href="https://github.com/ssantosalan">
