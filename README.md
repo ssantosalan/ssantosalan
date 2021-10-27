@@ -1,8 +1,6 @@
 ### I am a simple man.
 ##
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=160&lines=Alan+Santos+(:;">
-</div>
+
 
  <div align="center">
  <a href="https://github.com/ssantosalan">
