@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
- <p>Oi (:</p>
+ <p><b>Oi(: </b></p>
 </div>
 
 
