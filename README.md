@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
- <p><b>𝐻𝒾 (: </b></p>
+ <p><b>♥</b></p>
 </div>
 
 
