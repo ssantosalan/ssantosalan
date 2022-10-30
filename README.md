@@ -1,6 +1,8 @@
 ### I am a simple man. 👽
 ##
 
+ ![Snake animation](https://github.com/ssantosalan/ssantosalan/blob/output/github-contribution-grid-snake.svg)
+
  <div align="center">
  <a href="https://github.com/ssantosalan">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssantosalan&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -34,7 +36,7 @@
   </a>
 </div>
 
- ![Snake animation](https://github.com/ssantosalan/ssantosalan/blob/output/github-contribution-grid-snake.svg)
+
  
  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssantosalan&llayout=compact&langs_count=7&theme=omni" alt="alan" />
