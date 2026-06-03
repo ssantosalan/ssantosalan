@@ -3,17 +3,6 @@
 <p>𝘊𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘪𝘯 𝘢𝘪𝘳</p>
 <p>𝒥𝓊𝓈𝓉 𝓅𝓇𝒶𝒸𝓉𝒾𝒸𝑒 𝑒𝓋𝑒𝓇𝓎 𝓈𝒾𝓃𝑔𝓁𝑒 𝒹𝒶𝓎</p>
 
-
-##
-
- ![Snake animation](https://github.com/ssantosalan/ssantosalan/blob/output/github-contribution-grid-snake.svg)
-
- <div align="center">
- <a href="https://github.com/ssantosalan">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssantosalan&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssantosalan&layout=compact&langs_count=7&theme=omni"/>
-</div>
-
 ##
  
 <div align="center">
