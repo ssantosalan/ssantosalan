@@ -3,10 +3,7 @@
 <p>𝘊𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘪𝘯 𝘢𝘪𝘳</p>
 
 ##
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssantosalan&llayout=compact&langs_count=7&theme=omni" alt="alan" />
-</div>
+
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
